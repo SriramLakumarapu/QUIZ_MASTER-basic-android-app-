@@ -2,9 +2,13 @@
 
 A simple android quiz application programmed in Java. The user can attempt a multiple choice quiz at the end of which an activity displays the number of correct and incorrect answers out of the total questions.
 
-The app includes the following activities:
-
-activity_main
-activity_login (No database, credentials provided in the code)
 
 
+<p>The app includes the following activities:</p>
+<ol>
+  <li>activity_main</li>
+  <li>activity_login (No database, credentials provided in the code)</li>
+  <li>activity_quiz</li>
+  <li>activity_results</li>
+  <li>activity_about</li>
+</ol>
