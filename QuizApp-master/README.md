@@ -10,7 +10,4 @@
   <li>activity_quiz</li>
   <li>activity_results</li>
   <li>activity_about</li>
-</ol>
 
-<p>For any queries contact:</p>
-<p>Email: shah.abhay.18bit048@gmail.com</p>
